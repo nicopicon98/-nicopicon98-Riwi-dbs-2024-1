@@ -41,6 +41,7 @@
 - Tipo de cliente (individual o corporativo)
 - Estado
 - Relación: 1 opcional a muchos mandatory con **Cuentas Bancarias**.
+- Relación: 1 opcional a muchos opcional con **Tarjetas de Crédito**.
 - Relación: 1 opcional a muchos opcional con **Préstamos**.
 - Relación: 1 opcional a muchos opcional con **Productos Financieros**.
 - Relación: 1 opcional a muchos opcional con **Inversiones**.
